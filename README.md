@@ -26,6 +26,8 @@ Directory Structure
         ├── RRT-Connect
         ├── Extended-RRT
         ├── Dynamic-RRT
+        ├── APGD-RRT
+        ├── APGD-RRT*
         ├── RRT*
         ├── Informed RRT*
         ├── RRT* Smart
@@ -107,6 +109,12 @@ Directory Structure
 </table>
 <table>
   <tr>
+    <td><img src="https://user-images.githubusercontent.com/77560634/162869968-e1ad4fa0-f38b-4ee5-8242-315ebc4b82a3.png" alt="value iteration" width="400"/></a></td>
+    <td><img src="https://user-images.githubusercontent.com/77560634/162869990-2302369b-83ec-42a0-8538-a43ae8793e77.png" alt="value iteration" width="400"/></a></td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td><img src="https://github.com/zhm-real/PathPlanning/blob/master/Sampling_based_Planning/gif/Dynamic_RRT_2D.gif" alt="value iteration" width="400"/></a></td>
     <td><img src="https://github.com/zhm-real/PathPlanning/blob/master/Sampling_based_Planning/gif/RRT_STAR2_2D.gif" alt="value iteration" width="400"/></a></td>
   </tr>
@@ -158,3 +166,5 @@ Directory Structure
 * [Batch Informed Trees (BIT*): ](https://arxiv.org/abs/1405.5848) Sampling-based Optimal Planning via the Heuristically Guided Search of Implicit Random Geometric Graphs
 * [Advanced Batch Informed Trees (ABIT*): ](https://arxiv.org/abs/2002.06589) Sampling-Based Planning with Advanced Graph-Search Techniques ((ICRA) 2020)
 * [Adaptively Informed Trees (AIT*): ](https://arxiv.org/abs/2002.06599) Fast Asymptotically Optimal Path Planning through Adaptive Heuristics ((ICRA) 2020)
+* [APGD RRT: ](https://ieeexplore.ieee.org/abstract/document/6739744) Adaptive potential guided directional-RRT
+* [APGD RRT*: ](https://ieeexplore.ieee.org/abstract/document/6739744) Adaptive potential guided directional-RRT
