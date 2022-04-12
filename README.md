@@ -13,12 +13,14 @@ Directory Structure
         ├── A*
         ├── Bidirectional A*
         ├── Anytime Repairing A*
+        ├── Floyd A* (使用Floyd法优化路径)
         ├── Learning Real-time A* (LRTA*)
         ├── Real-time Adaptive A* (RTAA*)
         ├── Lifelong Planning A* (LPA*)
         ├── Dynamic A* (D*)
         ├── D* Lite
         └── Anytime D*
+        
     └── Sampling-based Planning
         ├── RRT
         ├── RRT-Connect
@@ -77,7 +79,16 @@ Directory Structure
     <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/ADstar_sig.gif" alt="dstarlite" width="400"/></a></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77560634/162865212-f1f9077e-1ce6-4311-9ae3-fc72e4b3befd.png" alt="floyd astar" width="400"/></a></td>
+  </tr>
+</table>
+
 </div>
+
+
+
 
 ## Animation - Sampling-Based
 ### RRT & Variants
