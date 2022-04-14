@@ -36,6 +36,8 @@ Directory Structure
         ├── Spline-RRT*
         ├── Fast Marching Trees (FMT*)
         └── Batch Informed Trees (BIT*)
+    └── curves
+        └── dubins_curves
     └── Papers
 
 ## Animations - Search-Based
@@ -132,6 +134,7 @@ Directory Structure
   </tr>
 </table>
 </div>
+### curves
 
 ## Papers
 ### Search-base Planning
