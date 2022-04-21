@@ -20,6 +20,7 @@ Directory Structure
         ├── Dynamic A* (D*)
         ├── D* Lite
         └── Anytime D*
+        └── constraint A* （简化版hybird A*:使用dubins曲线、未加入损失函数）
         
     └── Sampling-based Planning
         ├── RRT
@@ -88,6 +89,7 @@ Directory Structure
     <td><img src="https://user-images.githubusercontent.com/77560634/162865212-f1f9077e-1ce6-4311-9ae3-fc72e4b3befd.png" alt="floyd astar" width="400"/></a></td>
   </tr>
 </table>
+
 
 </div>
 
