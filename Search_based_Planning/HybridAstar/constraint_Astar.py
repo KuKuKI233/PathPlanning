@@ -78,7 +78,7 @@ class ConstraintAStar:
 
         #计算节点扩展属性
         #扩展的子节点坐标与父节点坐标的偏差角度
-        self.node_max_steer_angle=math.atan2(self.car_node_steer_radius,self.car_min_turnning_radius)
+        self.node_max_steer_angle=math.in(0.5*self.car_node_steer_radius/self.car_min_turnning_radius)
         #扩展的子节点方向与的父节点方向的偏差角度
         self.node_yaw_angle=2*self.node_max_steer_angle
         # print(self.node_max_steer_angle/3.14)
