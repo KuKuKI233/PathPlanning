@@ -19,8 +19,9 @@ Directory Structure
         ├── Lifelong Planning A* (LPA*)
         ├── Dynamic A* (D*)
         ├── D* Lite
-        └── Anytime D*
-        └── constraint A* （简化版hybird A*:使用dubins曲线、未加入损失函数）
+        ├── Anytime D*
+        ├── Hybrid A* (使用dubins曲线、未加入损失函数) 
+        └── constraint A* （加入约束、使用dubins曲线）
         
     └── Sampling-based Planning
         ├── RRT
