@@ -21,7 +21,10 @@ Directory Structure
         ├── D* Lite
         ├── Anytime D*
         ├── Hybrid A* (使用dubins曲线、未加入损失函数) 
-        └── constraint A* （加入约束、使用dubins曲线）
+        ├── constraint A* （加入约束、使用dubins曲线）
+        └── PRM
+        
+        
         
     └── Sampling-based Planning
         ├── RRT
@@ -49,6 +52,16 @@ Directory Structure
   <tr>
     <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/BF.gif" alt="dfs" width="400"/></a></td>
     <td><img src="https://github.com/zhm-real/path-planning-algorithms/blob/master/Search_based_Planning/gif/Dijkstra.gif" alt="dijkstra" width="400"/></a></td>
+  </tr>
+</table>
+</div>
+
+### PRM
+<div align=right>
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77560634/169987242-53ba9105-f7ec-4822-88c5-c0e294eed730.png" alt="dfs" width="400"/></a></td>
+   
   </tr>
 </table>
 </div>
